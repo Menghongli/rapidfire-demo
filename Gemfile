@@ -19,6 +19,8 @@ gem 'bootswatch-rails'
 gem 'ejs'
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'puma'
+
 group :development do
   gem 'pry-remote', '~> 0.1.7'
   gem 'quiet_assets'
